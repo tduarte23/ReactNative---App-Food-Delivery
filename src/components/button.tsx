@@ -31,7 +31,7 @@ function ButtonText({children}:ButtonTextProps){
 }
 
 function ButtonIcon({children}:ButtonIconProps){
-    return children ;
+    return children
 }
 
 Button.Text = ButtonText ;
